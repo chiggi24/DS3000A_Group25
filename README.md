@@ -69,6 +69,13 @@ The optimal parameters for the neural network model were:
 
 A grid search with 5-fold cross-validation is used to fine-tune hyperparameters, optimizing for recall to reduce false negatives. This ensures the best possible model is chosen for phishing URL detection.
 
+## Dataset
+
+The dataset used for this project can be downloaded from the following link:  
+[Phishing URL Dataset](https://drive.google.com/file/d/14QqTxF0cXh6lBAeBHfE4pPeFKtuo-Okc/view?usp=sharing)
+
+Make sure to place the dataset in the appropriate directory or adjust the path in the code accordingly.
+
 ## Usage
 
 ### Step 1: Load Data
